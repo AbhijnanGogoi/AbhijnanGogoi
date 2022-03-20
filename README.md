@@ -14,4 +14,4 @@ Hello! I am Abhijnan Saraswat Gogoi (you can call me Abhi for short)!
 
    Ps: I rarely check my email so I might not be able to respond...
 
-More info about me at https://abhijnan-2.github.io/personal-website
+More info about me at https://AbhijnanGogoi.github.io/personal-website
