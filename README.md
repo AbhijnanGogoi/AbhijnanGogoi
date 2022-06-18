@@ -4,7 +4,7 @@ Hello! I am Abhijnan Saraswat Gogoi (you can call me Abhi for short)!
 
 ✨ I have been learning to code for the last few years.
 
-✨ I would love to help/collaborate on some projects 🙂
+✨ I would love to help/collaborate on some projects (on weekends) 😊
 
 ✨ My interests are Astronomy, Computers, Plants, Biotechnology, Physics.
 
