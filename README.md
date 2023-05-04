@@ -4,7 +4,7 @@ I am Abhijnan Saraswat Gogoi.
 
 ✨ I have been learning to code since 2018.
 
-✨ As of May 2023, I know C (only basics), JS (only basics), HTML, CSS.
+✨ As of May 2023, my skills are C (only basics), JS (only basics), HTML, CSS.
 
 ✨ My interests are Astronomy, Computer Science, Engineering, Biotechnology, Physics.
 
