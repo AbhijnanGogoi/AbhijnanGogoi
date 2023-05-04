@@ -1,10 +1,10 @@
 # README.md
 
-Hello! I am Abhijnan Saraswat Gogoi (you can call me Abhi for short)!
+I am Abhijnan Saraswat Gogoi.
 
-✨ I have been learning to code for the last few years.
+✨ I have been learning to code since 2018.
 
-✨ I would love to help/collaborate on some projects (on weekends) 😊
+✨ As of May 2023, I know C (only basics), JS (only basics), HTML, CSS.
 
 ✨ My interests are Astronomy, Computer Science, Engineering, Biotechnology, Physics.
 
