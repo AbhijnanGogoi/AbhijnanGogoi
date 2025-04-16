@@ -8,4 +8,4 @@ I am Abhijnan Saraswat Gogoi.
 
 ✨ My interests are Astrophysics, Physics, Mathematics, Electronics, Scientific computing and Nano-biotechnology.
 
-✨ Currently I am doing my integrated MSc at NISER Bhubaneswar.
+✨ Currently I am doing my integrated MSc (2024-29) at NISER Bhubaneswar, India.
